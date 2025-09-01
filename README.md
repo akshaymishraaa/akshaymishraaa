@@ -8,10 +8,6 @@
   <a href="https://connectwithakshay.in">🌐 connectwithakshay.in</a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+(MERN)+💻;TypeScript+Lover+❤️;Clean+Code+Evangelist+🧼;Always+Learning+📚;Let's+Build+Something+Awesome+Together!+🚀" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🚀 About Me
