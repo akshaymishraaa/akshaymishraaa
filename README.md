@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Mishra</h1>
-<h3 align="center">Full Stack Engineer | MERN & DevOps Enthusiast | Clean Coder | Problem Solver</h3>
+<h3 align="center">Full Stack Engineer | MERN / PERN & DevOps Enthusiast | Clean Coder | Problem Solver</h3>
 
 <p align="center">
   <a href="mailto:akshaymishra1228@gmail.com">📧 akshaymishra1228@gmail.com</a> |
